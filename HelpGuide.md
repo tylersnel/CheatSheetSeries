@@ -5,7 +5,7 @@
 Welcome to the Cheat Sheet Help Guide. This guide is designed to help you navigate the website and make the most of the features and resources offered. The cheat sheets are packed with valuable information, and we want to ensure you have all the tools you need to use them effectively.
 
 ### What's Inside This Guide
-1. Basic Navigation
+1. [Basic Navigation](###Basic-Navigation)
 2. Features
 3. FAQ
 4. Troubleshooting Guide
@@ -71,7 +71,8 @@ A: Yes, you can use the cheat sheets in commercial projects, provided you adhere
 These FAQs should help users understand the purpose, usage, and contributions related to the OWASP Cheat Sheet Series website.
 
 ### Troubleshooting Guide
-* Refreshing the web page will fix most issues encountered. If the problem persists, close the browser, reopen the browser, and return to the cheat sheet website.
+* Refreshing the web page will fix most issues encountered.
+* If the problem persists, close the browser, reopen the browser, and return to the cheat sheet website.
 * Clear your cache and cookies or try a different browser. 
 * If the website is not loading, please check your internet connection. 
 
